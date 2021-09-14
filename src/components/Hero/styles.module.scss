@@ -1,0 +1,22 @@
+@import '../../res/scss/variables';
+.box {
+  display: flex;
+  align-items: center;
+  margin: 40px 0 30px;
+}
+.title {
+  padding-right: 200px;
+  font-family: $font-primary;
+  font-size: 40px;
+  color: $text-primary;
+}
+.text {
+  font-family: $font-primary;
+  font-size: 18px;
+  color: $text-primary;
+}
+
+.image {
+  // width: 940px;
+  // height: 380px;
+}

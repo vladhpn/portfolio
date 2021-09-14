@@ -1,0 +1,16 @@
+@import '../../res/scss/variables';
+.header {
+  border-bottom: 1px solid $text-secondary;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  padding: 33px 0 30px;
+}
+
+.items {
+  font-family: $font-primary;
+  font-size: 18px;
+  color: $text-secondary;
+}
