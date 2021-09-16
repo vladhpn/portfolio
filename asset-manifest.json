@@ -1,27 +1,41 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f8166b52.chunk.css",
-    "main.js": "/portfolio/static/js/main.45afca3c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.45afca3c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.fc5f7d56.chunk.css",
+    "main.js": "/portfolio/static/js/main.7e4acb15.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7e4acb15.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.71e54725.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.71e54725.js.map",
-    "static/js/2.97055f5f.chunk.js": "/portfolio/static/js/2.97055f5f.chunk.js",
-    "static/js/2.97055f5f.chunk.js.map": "/portfolio/static/js/2.97055f5f.chunk.js.map",
+    "static/js/2.af4f4f67.chunk.js": "/portfolio/static/js/2.af4f4f67.chunk.js",
+    "static/js/2.af4f4f67.chunk.js.map": "/portfolio/static/js/2.af4f4f67.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.f8166b52.chunk.css.map": "/portfolio/static/css/main.f8166b52.chunk.css.map",
-    "static/js/2.97055f5f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.97055f5f.chunk.js.LICENSE.txt",
+    "static/css/main.fc5f7d56.chunk.css.map": "/portfolio/static/css/main.fc5f7d56.chunk.css.map",
+    "static/js/2.af4f4f67.chunk.js.LICENSE.txt": "/portfolio/static/js/2.af4f4f67.chunk.js.LICENSE.txt",
+    "static/media/CV-Hapon-Vladyslav.b38907d9.pdf": "/portfolio/static/media/CV-Hapon-Vladyslav.b38907d9.pdf",
     "static/media/css-logo.png": "/portfolio/static/media/css-logo.b6d49319.png",
+    "static/media/facebook.9ece384e.svg": "/portfolio/static/media/facebook.9ece384e.svg",
+    "static/media/food-server.png": "/portfolio/static/media/food-server.fb52eeab.png",
+    "static/media/github.043dbc9b.svg": "/portfolio/static/media/github.043dbc9b.svg",
+    "static/media/ice-cream.png": "/portfolio/static/media/ice-cream.ee0dca54.png",
+    "static/media/images-finder.png": "/portfolio/static/media/images-finder.9720f4f7.png",
+    "static/media/instagram.ab8f423f.svg": "/portfolio/static/media/instagram.ab8f423f.svg",
+    "static/media/linkedin.c013c26a.svg": "/portfolio/static/media/linkedin.c013c26a.svg",
     "static/media/material-ua-logo.png": "/portfolio/static/media/material-ua-logo.5b2d8a0a.png",
+    "static/media/message.ace5bc13.svg": "/portfolio/static/media/message.ace5bc13.svg",
     "static/media/movies.png": "/portfolio/static/media/movies.81757d47.png",
+    "static/media/oku.png": "/portfolio/static/media/oku.1446cf0d.png",
+    "static/media/phonebook.png": "/portfolio/static/media/phonebook.782b2dc3.png",
     "static/media/photo1.jpeg": "/portfolio/static/media/photo1.12c5c285.jpeg",
     "static/media/react-logo.png": "/portfolio/static/media/react-logo.9c7af2ed.png",
     "static/media/sass-icon.png": "/portfolio/static/media/sass-icon.dc7b406a.png",
-    "static/media/slim-mom.png": "/portfolio/static/media/slim-mom.64da289c.png"
+    "static/media/slim-mom.png": "/portfolio/static/media/slim-mom.64da289c.png",
+    "static/media/telegram.2cf23abe.svg": "/portfolio/static/media/telegram.2cf23abe.svg",
+    "static/media/timer.png": "/portfolio/static/media/timer.3900d24c.png",
+    "static/media/webstudio.png": "/portfolio/static/media/webstudio.e20acc76.png"
   },
   "entrypoints": [
     "static/js/runtime-main.71e54725.js",
-    "static/js/2.97055f5f.chunk.js",
-    "static/css/main.f8166b52.chunk.css",
-    "static/js/main.45afca3c.chunk.js"
+    "static/js/2.af4f4f67.chunk.js",
+    "static/css/main.fc5f7d56.chunk.css",
+    "static/js/main.7e4acb15.chunk.js"
   ]
 }
