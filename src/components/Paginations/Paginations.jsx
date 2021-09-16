@@ -1,5 +1,5 @@
-
-function Paginations({portfolioPerPage, totalExamples, paginat}){ 
+import { Pagination } from "react-bootstrap"
+function Paginations({portfolioPerPage, totalExamples, paginat, prevPage, nextPage}){ 
     const pageNumbers = []
 
     for(let i = 1; i <= (totalExamples / portfolioPerPage); i++){
@@ -7,6 +7,9 @@ function Paginations({portfolioPerPage, totalExamples, paginat}){
     }
     
     return(
+
+        <Pagination>
+                    <Pagination.Prev onClick={prevPage}/>
          <div>
              <ul className="pagination justify-content-center">
                  {
@@ -18,7 +21,8 @@ function Paginations({portfolioPerPage, totalExamples, paginat}){
              </ul>
     
          </div>
-        
+         <Pagination.Next onClick={nextPage}/>
+                </Pagination>
     )
 }
 

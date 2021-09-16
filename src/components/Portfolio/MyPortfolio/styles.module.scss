@@ -1,0 +1,20 @@
+@import '../../../res/scss/variables';
+
+.list {
+  text-align: center;
+}
+
+.text {
+  font-family: $font-primary;
+  font-size: 24px;
+  color: $text-primary;
+}
+
+.image {
+  margin: 50px 0 25px;
+  transition: all 200ms ease-in-out;
+  &:hover,
+  &:focus {
+    transform: scale(1.2);
+  }
+}

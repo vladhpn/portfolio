@@ -1,7 +1,7 @@
 import styles from './styles.module.scss'
 function AboutMe(){
     return(
-        <section className={styles.sect}>
+        <section id='aboutme' className={styles.sect}>
             <h2 className={styles.title}>
                 About Me
             </h2>

@@ -75,7 +75,7 @@ const skills  = [{
 ]
 function Skills(){
     return(
-        <section>
+        <section id='skills'>
             <h3 className={styles.title}>Skills</h3>
             <MySkills skills={skills}/>
         </section>
