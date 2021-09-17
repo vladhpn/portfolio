@@ -10,14 +10,17 @@ import styles from './styles.module.scss'
 function Contacts(){
     return(
         <footer id='contacts' className={styles.footer}>
-            <h3 className={styles.text}>
-                Contacts
-            </h3>
+
             <div className={styles.box}>
             <div className={styles.box2}>
             <a href={MyCv} download=''> <span className={styles.cv}>Download CV </span></a>
             </div>
             </div>
+
+            <h3 className={styles.text}>
+                Contacts
+            </h3>
+            
            
             
            <ul className={styles.list}>
