@@ -1,9 +1,15 @@
 @import '../../res/scss/variables';
 
 .title {
-  padding-top: 91px;
+  padding-top: 60px;
   text-align: center;
   font-family: $font-primary;
   font-size: 34px;
   color: $text-primary;
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    padding-top: 91px;
+  }
+  @media (min-width: 1024px) {
+    padding-top: 91px;
+  }
 }

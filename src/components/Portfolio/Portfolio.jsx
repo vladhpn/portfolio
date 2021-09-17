@@ -71,8 +71,8 @@ function Portfolio(){
     const currentExamplesIndex = examples.slice(firstExamplesIndex,lastExamplesIndex )
 
     const paginat = pageNumber => setCurrentPage(pageNumber)
-    const nextPage = () => setCurrentPage(prev => prev + 1)
-    const prevPage = () => setCurrentPage(prev => prev - 1)
+    // const nextPage = () => setCurrentPage(prev => prev + 1)
+    // const prevPage = () => setCurrentPage(prev => prev - 1)
     return(
         <section id='portfolio'>
             <h3 className={styles.title}>
@@ -83,7 +83,7 @@ function Portfolio(){
                 <AppPagination totalExamples={examples.length} 
                 paginat={paginat} 
                 setCurrentPage={setCurrentPage}
-                prevPage={prevPage}/>
+            />
         </section>
     )
 }

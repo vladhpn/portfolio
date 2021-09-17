@@ -1,4 +1,4 @@
-import { makeStyles } from '@material-ui/core/styles';
+// import { makeStyles } from '@material-ui/core/styles';
 import Pagination from '@material-ui/lab/Pagination';
 
 function AppPagination ({totalExamples, setCurrentPage, prevPage}){
@@ -12,7 +12,7 @@ function AppPagination ({totalExamples, setCurrentPage, prevPage}){
                 justifyContent: 'center'
             }} count={totalExamples}
             onClick={(e)=> handleChange(e.target.textContent)}
-             hideNextButton hidePrevButton
+            //  hideNextButton hidePrevButton
             
             />
         </div>
