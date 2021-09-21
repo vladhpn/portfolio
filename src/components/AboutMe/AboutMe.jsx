@@ -6,7 +6,12 @@ function AboutMe(){
                 About Me
             </h2>
             <div className={styles.box}>
-            <p className={styles.text}>As a developer, I have participated in five projects over the last year; two of them were team projects. I am well versed in front-end development, namely, in HTML5 / CSS3, React library, and Rest Api. I'm looking for a career opportunity to improve my current skills and knowledge while making a significant contribution to the company's success.</p>
+            <p className={styles.text}>I am looking for career opportunities to improve my current skills and knowledge, 
+               making a significant contribution to the company's success. <br />
+               As a developer, I have been involved in several projects
+             over the past year, three of them were team projects. <br />
+              One year of Front-end development experience, namely HTML5 / CSS3, JavaScript,
+               React.js and Rest Api. </p>
             </div>
         </section>
 

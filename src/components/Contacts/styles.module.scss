@@ -9,6 +9,7 @@
   }
 }
 .text {
+  margin-top: 25px;
   text-align: center;
   font-family: $font-primary;
   font-size: 24px;
@@ -45,10 +46,14 @@
   }
 }
 
-.items {
-  text-align: -webkit-center;
-  width: calc((100% - 5 * 5px) / 5);
+.items_contacts {
+  margin-right: 20px;
 }
+// @media (min-width: 768px) {
+//   :not(:last-child) {
+//     margin-right: 40px;
+//   }
+// }
 
 .logo {
   fill: $text-secondary;

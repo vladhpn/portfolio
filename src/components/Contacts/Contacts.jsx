@@ -24,11 +24,11 @@ function Contacts(){
            
             
            <ul className={styles.list}>
-               <li className={styles.items}><a href='https://www.linkedin.com/in/vladyslav-hapon/'>  <ReactSVG src={linkedinLogo} className={styles.logo}/></a></li>
-               <li className={styles.items}><a href='https://github.com/vladhpn'>  <ReactSVG src={githubLogo} className={styles.logo}/></a></li>
-               <li className={styles.items}><a href='https://www.facebook.com/vladhpn'>  <ReactSVG src={facebookLogo} className={styles.logo}/></a></li>
-               <li className={styles.items}><a href='https://www.instagram.com/vladhapon/'>  <ReactSVG src={instagramLogo} className={styles.logo}/></a></li>
-               <li className={styles.items}><a href='https://t.me/vladhpn'>  <ReactSVG src={telegramLogo} className={styles.logo}/></a></li>
+               <li className={styles.items_contacts}><a href='https://www.linkedin.com/in/vladyslav-hapon/'>  <ReactSVG src={linkedinLogo} className={styles.logo}/></a></li>
+               <li className={styles.items_contacts}><a href='https://github.com/vladhpn'>  <ReactSVG src={githubLogo} className={styles.logo}/></a></li>
+               <li className={styles.items_contacts}><a href='https://www.facebook.com/vladhpn'>  <ReactSVG src={facebookLogo} className={styles.logo}/></a></li>
+               <li className={styles.items_contacts}><a href='https://www.instagram.com/vladhapon/'>  <ReactSVG src={instagramLogo} className={styles.logo}/></a></li>
+               <li className={styles.items_contacts}><a href='https://t.me/vladhpn'>  <ReactSVG src={telegramLogo} className={styles.logo}/></a></li>
            </ul>
            <p className={styles.text_footer}>Like me on <br/>
 LinkedIn, GitHub, FaceBook, Instagram</p>

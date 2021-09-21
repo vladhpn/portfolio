@@ -12,7 +12,7 @@ function AppPagination ({totalExamples, setCurrentPage, prevPage}){
                 justifyContent: 'center'
             }} count={totalExamples}
             onClick={(e)=> handleChange(e.target.textContent)}
-            //  hideNextButton hidePrevButton
+             hideNextButton hidePrevButton
             
             />
         </div>
